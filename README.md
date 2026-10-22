@@ -1,0 +1,2 @@
+# AI-Powered-Crop-Disease-Detection-and-Smart-Farming-Assistant-for-Uzbekistan
+AI-powered web application for Uzbekistan that detects crop diseases from images using computer vision and provides source-based treatment and prevention guidance using RAG. Features include weather forecasts, disease risk alerts, an AI farming chatbot, crop calendars, pest identification, inspection history, and regional disease mapping.
